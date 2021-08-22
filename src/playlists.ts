@@ -27,23 +27,22 @@ export const playlists: Playlist[] = [
     ],
   },
   {
-    title: "Digital Mirage [mixed feelings 2]",
-    dj: "San Holo",
+    title: "STAY",
+    dj: "JustinBieber&TheKidLAROI",
     videos: [
       {
-        id: "QcA8PJybAas",
-        filename: "San Holo @ Digital Mirage [mixed feelings 2].webm",
+        id: "kTJczUoc26U",
+        filename: "The Kid LAROI, Justin Bieber - STAY (Official Video).webm",
       },
     ],
   },
   {
-    title: "Monster Energy Up & Up Virtual Festival [mixed feelings 3]",
-    dj: "San Holo",
+    title: "STAY",
+    dj: "JustinBieber&TheKidLAROI",
     videos: [
       {
-        id: "0_VIvjGrwlg",
-        filename:
-          "San Holo @ Monster Energy Up & Up Virtual Festival [mixed feelings 3].webm",
+        id: "kTJczUoc26U",
+        filename: "The Kid LAROI, Justin Bieber - STAY (Official Video).webm",
       },
     ],
   },
