@@ -17,12 +17,12 @@ export interface Playlist {
 
 export const playlists: Playlist[] = [
   {
-    title: "Secret Sky [mixed feelings 1]",
-    dj: "San Holo",
+    title: "STAY",
+    dj: "JustinBieber&TheKidLAROI",
     videos: [
       {
-        id: "hd2Uv_OFtZ0",
-        filename: "San Holo @ Secret Sky 2020 [mixed feelings 1].webm",
+        id: "kTJczUoc26U",
+        filename: "The Kid LAROI, Justin Bieber - STAY (Official Video).webm",
       },
     ],
   },
